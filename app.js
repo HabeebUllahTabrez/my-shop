@@ -22,3 +22,4 @@ app.use(shopRoutes);
 app.use(errorController.get404);
 
 app.listen(3000);
+console.log("The server is up and running at http://localhost:3000");
