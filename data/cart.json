@@ -1,7 +1,7 @@
 {
     "products": [
-        { "id": "123h45g", "qty": 2 },
-        { "id": "xaea12f", "qty": 1 }
+        { "id": "123h45g", "qty": 1 },
+        { "id": "xaea12f", "qty": 2 }
     ],
-    "totalPrice": "0191969.99"
+    "totalPrice": 159.46999999999997
 }
