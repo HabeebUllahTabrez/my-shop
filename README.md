@@ -1,6 +1,7 @@
 # My Shop
 
-This project is a dummy e-commerce store created using express.js and the data is rendered dynamically using the teplating engine ejs
+This project is a dummy e-commerce store created using express.js and the data is rendered dynamically using the teplating engine ejs.
+
 The major features of the project are:
   - Creation of Products
   - Updation of Products
